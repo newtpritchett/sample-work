@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Stock Watch</string>
+    <string name="stockSymbol">Stock Symbol</string>
+    <string name="companyName">Company Name</string>
+    <string name="price">Price</string>
+    <string name="priceChange">Price Change</string>
+    <string name="pricePercentage">Price Percentage</string>
+    <string name="swipeRefresher">Swipe to Refresh</string>
+    <string name="mainStockList">Main Stock List</string>
+
+</resources>
+

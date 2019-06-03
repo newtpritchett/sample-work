@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/edit_icon"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="Edit"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/leaderboard_menu_icon"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="Menu"
+        app:showAsAction="always" />
+</menu>
