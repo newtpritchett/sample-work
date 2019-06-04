@@ -1,3 +1,4 @@
+# This project was created by Trevor Pritchett and Andrew Neth in our Spring 2019 semester at IIT for an Operating Systems class. The assignment is included below. Tests and a Makefile were provided. Our work is in the pzip.c and inspect.c files.
 
 # Parallel Zip
 

@@ -1,3 +1,5 @@
+# This project was created by Trevor Pritchett in my Spring 2019 semester for an Operating Systems class. The assignment description is below. Much of the framework is provided but my work is predominately in the boot.S, kernel.c, and lowborn.S files
+
 # Out of the Depths of x86
 
 In this project you'll be building your own _barebones_, 32-bit OS kernel in

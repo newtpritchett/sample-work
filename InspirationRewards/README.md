@@ -1,0 +1,1 @@
+#this project was created by Trevor Pritchett in my Spring 2019 semester at IIT for an App Development class. The full project can be opened in Android Studio or unzip the Inspiration Rewards.zip file to install the app on an Android device or device emulator. For the app concept see the assignment specifications in the Inspiration Rewards.pdf file.

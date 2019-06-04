@@ -1,3 +1,4 @@
+# This project was created by Trevor Pritchett and Nick Wanninger in our Spring 2019 Semester at IIT for an Operating Systems class. The assignment is below. Some framework was provided. Our work is in the mapreduce.c file.
 
 # Map Reduce
 
