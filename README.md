@@ -6,7 +6,7 @@ A typical deadline for these projects was about two weeks.
 
 InspirationRewards and Stockwatch: These are relatively simple Android apps written for an App Developement course. They're primarily Java, written in Android Studio.
 
-CS425-master: This was a project for a Database Management course. If I recall, it's book-keeping/inventory software for a car dealership. It's mostly SQL with nodejs on the server side.
+CS425-master: This was a project for a Database Management course. It is a book-keeping/inventory software for a car dealership. It's mostly SQL with nodejs on the server side.
 
 project-2a-out-of-the-depths-newtpritchett-master: A functional bootloader from an upper-level Operating Systems course. Predominately C and assembly code. Theoretically, it should run on a variety of virtual machines but it's only been tested in QEMU.
 
